@@ -1,0 +1,28 @@
+body {
+  background-color: #e3fdfd;
+}
+
+hr {
+  height: 3px;
+  border-color: grey;
+  border-style: dotted none none none;
+  border-width: thick;
+  width: 3%;
+  background-color: transparent;
+
+}
+
+img {
+  border-style: solid;
+  border-width: medium;
+  border-color: #11999e;
+  border-radius: 20px;
+}
+
+h1{
+  color: #11999e;
+}
+
+h3{
+  color: #11999e;
+}
